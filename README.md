@@ -28,28 +28,7 @@
 - Excel export for reporting  
 
 ---
-# 🔧 Challenges Faced 
 
-## 📍 GPS Integration
-Our system automatically captures **precise location data** when citizens report issues:
-- **Auto-detection**: One-tap GPS capture using browser/device location services
-- **Map interface**: Interactive map for manual pin placement with draggable markers
-- **Ward mapping**: Automatic ward assignment based on geolocation coordinates
-- **Address validation**: Converts coordinates to readable addresses using reverse geocoding
-
-## 🔳 QR Code Integration
-Every complaint gets a **scannable digital identity**:
-- **Unique QR generation**: Automatic QR creation for each new complaint
-- **Mobile-friendly**: Scan with any smartphone camera to access complaint details
-- **Status updates**: QR codes update in real-time as complaints progress
-- **Field verification**: Workers scan codes on-site to confirm arrival and start work
-
-## 📊 Real-Time Analytics Integration
-Live insights for better municipal management:
-- **Dashboard metrics**: Live counts of pending/in-progress/resolved complaints
-- **Trend analysis**: Charts showing peak reporting times and common issue types
-- **Performance tracking**: Average resolution times per ward and department
-- **Export-ready**: One-click Excel/PDF reports with filters by date, ward, or issue type
 
 ## 🏗 System Architecture
 
